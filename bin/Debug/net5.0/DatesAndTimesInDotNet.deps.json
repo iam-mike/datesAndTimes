@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DatesAndTimesInDotNet/1.0.0": {
+        "runtime": {
+          "DatesAndTimesInDotNet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DatesAndTimesInDotNet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

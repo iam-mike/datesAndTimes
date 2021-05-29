@@ -1,0 +1,15 @@
+/Users/mike/Projects/dates-and-times/DatesAndTimesInDotNet/bin/Debug/net5.0/DatesAndTimesInDotNet.deps.json
+/Users/mike/Projects/dates-and-times/DatesAndTimesInDotNet/bin/Debug/net5.0/DatesAndTimesInDotNet.runtimeconfig.json
+/Users/mike/Projects/dates-and-times/DatesAndTimesInDotNet/bin/Debug/net5.0/DatesAndTimesInDotNet.runtimeconfig.dev.json
+/Users/mike/Projects/dates-and-times/DatesAndTimesInDotNet/bin/Debug/net5.0/DatesAndTimesInDotNet.dll
+/Users/mike/Projects/dates-and-times/DatesAndTimesInDotNet/bin/Debug/net5.0/ref/DatesAndTimesInDotNet.dll
+/Users/mike/Projects/dates-and-times/DatesAndTimesInDotNet/bin/Debug/net5.0/DatesAndTimesInDotNet.pdb
+/Users/mike/Projects/dates-and-times/DatesAndTimesInDotNet/obj/Debug/net5.0/DatesAndTimesInDotNet.csprojAssemblyReference.cache
+/Users/mike/Projects/dates-and-times/DatesAndTimesInDotNet/obj/Debug/net5.0/DatesAndTimesInDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mike/Projects/dates-and-times/DatesAndTimesInDotNet/obj/Debug/net5.0/DatesAndTimesInDotNet.AssemblyInfoInputs.cache
+/Users/mike/Projects/dates-and-times/DatesAndTimesInDotNet/obj/Debug/net5.0/DatesAndTimesInDotNet.AssemblyInfo.cs
+/Users/mike/Projects/dates-and-times/DatesAndTimesInDotNet/obj/Debug/net5.0/DatesAndTimesInDotNet.csproj.CoreCompileInputs.cache
+/Users/mike/Projects/dates-and-times/DatesAndTimesInDotNet/obj/Debug/net5.0/DatesAndTimesInDotNet.dll
+/Users/mike/Projects/dates-and-times/DatesAndTimesInDotNet/obj/Debug/net5.0/ref/DatesAndTimesInDotNet.dll
+/Users/mike/Projects/dates-and-times/DatesAndTimesInDotNet/obj/Debug/net5.0/DatesAndTimesInDotNet.pdb
+/Users/mike/Projects/dates-and-times/DatesAndTimesInDotNet/obj/Debug/net5.0/DatesAndTimesInDotNet.genruntimeconfig.cache
